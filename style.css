@@ -1,10 +1,11 @@
 .language {
-  color:powderblue;
+  color:mediumblue;
   font-size:80%;
   font-family:sans-serif;
 }
 
-#title-id {
-  color:aquamarine;
+h1 {
+  color:dodgerblue;
   font-size:120%;
+  font-family: cursive
 }
